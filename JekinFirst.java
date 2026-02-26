@@ -1,4 +1,3 @@
-package jekinBasic;
 
 public class JekinFirst {
 
@@ -8,3 +7,4 @@ public class JekinFirst {
 	}
 
 }
+
